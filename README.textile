@@ -2,14 +2,14 @@ h1. What does it do?
 
 Embed a Page from the Piratenwiki.
 
-h2. Macro: etherpad()
+h2. Macro: piratenwiki()
 
 To use, just add @{{piratenwiki(pagename)}}@ to the issue/wiki/page in which to embed a pad.
 
 Macro options:
 
 * @width@ - width of the iframe, defaults to 100%
-* @height@ - width of the iframe, defaults to 400px
+* @height@ - width of the iframe, defaults to 480px
 
 h2. Installation
 

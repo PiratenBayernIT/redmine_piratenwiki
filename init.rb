@@ -18,7 +18,7 @@ Redmine::Plugin.register :redmine_piratenwiki do
       scheme = conf.fetch('scheme')
       options = {
         'width' => conf.fetch('width', '100%'),
-        'height' => conf.fetch('height', '400px'),
+        'height' => conf.fetch('height', '480px'),
       }
         
       # Override default control settings with given arguments.
